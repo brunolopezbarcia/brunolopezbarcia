@@ -6,10 +6,6 @@
 - :technologist: He estudiado un Ciclo Superior en Administrador de Sistemas Informaticos en Red.
 
 **Contactame:**
-
-<p align="left">
-<a href="https://es.linkedin.com/in/bruno-l%C3%B3pez-barcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunolopezbarcia" height="30" width="40" /></a>
-</p>
 - 📫 Email: brunolopar46@gmail.com
 <br></br>
 
