@@ -2,8 +2,8 @@
 **Sobre Mi:**
 
 - 🔭 Actualmente estoy estudiando un Ciclo de Especialización de Ciberseguridad en Contornos de Tecnologías de la Información.
-- :man_technologist: Actualmente estoy trabajando como Tecnico 1N de Soporte.
-- :technologist: He estudiado un Ciclo Superior en Administrador de Sistemas Informaticos en Red.
+- :man_technologist: He estado trabajando como Tecnico N1 de Soporte.
+- :technologist: He estudiado un Ciclo Superior en Administradción de Sistemas Informaticos en Red.
 
 **Contactame:**
 - 📫 Email: brunolopar46@gmail.com
