@@ -1,7 +1,7 @@
 
 **Sobre Mi:**
 
-- :man_technologist: Actualmente estoy trabajando como Tecnico N1 de Soporte.
+- :man_technologist: Actualmente estoy trabajando como Information Technology Infrastructure Engineer
 - :technologist: He estudiado un Ciclo de Especialización de Ciberseguridad en Contornos de Tecnologías de la Información y Ciclo Superior en Administradción de Sistemas Informaticos en Red.
 
 **Contactame:**
